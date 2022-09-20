@@ -9,6 +9,7 @@ public class Program {
     }
 }
        class Test {
+       
            String name;
            int age;
 
